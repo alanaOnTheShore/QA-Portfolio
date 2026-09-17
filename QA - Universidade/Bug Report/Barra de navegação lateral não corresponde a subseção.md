@@ -26,4 +26,4 @@ Testado no Windows 11, o resultado esperado é alcançado.
 Baixa - não impede o fluxo, pode ser contornado, mas prejudica a usabilidade.
 ## 
 Evidência:  
-![Imagem do painel no Jira](../img/jira-bugreport.jpeg)
+![Imagem do painel no Jira](../img/jira-barra-navegacao.jpeg)
