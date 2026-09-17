@@ -25,5 +25,5 @@ Testado no Windows 11, o resultado esperado é alcançado.
 ## Severidade: 
 Baixa - não impede o fluxo, pode ser contornado, mas prejudica a usabilidade.
 ## 
-Evidência: video.mp4
-!(Imagem do painel no Jira)[./img/jira-bugreport.jpeg]
+Evidência: video.mp4  
+!(Imagem do painel no Jira)[QA - Universidade/img/jira-bugreport.jpeg]
