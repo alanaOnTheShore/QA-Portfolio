@@ -14,5 +14,6 @@ Ter uma senha válida cadastrada no sistema.
 O acesso é bloqueado e a mensagem “email ou senha incorreto” aparece na tela.
 ## Resultado obtido: 
 O acesso é bloqueado, a mensagem "você excedeu o limite de senha incorretas" é exibida e o campo de senha fica em destaque.
-## Severidade: Média - não bloqueia o fluxo do software, mas induz o usuário ao erro.
+## Severidade: 
+Média - não bloqueia o fluxo do software, mas induz o usuário ao erro.
 ## Evidência: 
